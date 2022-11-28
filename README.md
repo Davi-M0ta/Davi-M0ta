@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davi-M0ta
-- 👀 I’m interested in React-Native, Java, PHP
+- 👀 I’m interested in React-Native, Java and PHP
 - 🌱 I’m currently learning SpringBoot
 
 <!---
