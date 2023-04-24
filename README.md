@@ -3,8 +3,6 @@
 🎓 Sou formado como Técnico em Informática e atualmente estou cursando a graduação de Licenciatura em Computação no IFFar. <br>
 ⚡ Possuo interesse na área de desenvolvimento back-end, principalmente com a linguagem de programação Java ☕<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davimota.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-brasil-mota/) 
-
 # 📊 GitHub Stats:
 
 <p style="text-align: center">
